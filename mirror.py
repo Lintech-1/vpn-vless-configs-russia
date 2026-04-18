@@ -177,7 +177,7 @@ URLS_BASE = [
     "https://raw.githubusercontent.com/satrom/V2SSR/master/V2RAY/Sub.txt",
     "https://raw.githubusercontent.com/Saviorhoss/V2ray2/dbb72f8ab0c06fd5bf98d639789b07c818770ee3/hysteria.txt",
     "https://raw.githubusercontent.com/Saviorhoss/V2ray2/dbb72f8ab0c06fd5bf98d639789b07c818770ee3/ss.txt",
-    "https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/protocols/vl.txt",
+    "https://raw.githubusercontent.com/sevcator/5ubscr10pt10n/main/protocols/vl.txt",
     "https://raw.githubusercontent.com/shabane/kamaji/75e841a6c9735a4e8d1840cc6c2d95a80b89673b/hub/vmess.txt",
     "https://raw.githubusercontent.com/shabane/kamaji/master/hub/merged.txt",
     "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/splitted/subscribe",
@@ -223,7 +223,18 @@ URLS_BASE = [
     "https://raw.githubusercontent.com/yyyr-otz/tele-providers-collector/019cb3e07ee52fddbc7caa54fc670c6b9bae6539/sub/proxies.txt",
     "https://raw.githubusercontent.com/yyyr-otz/tele-providers-collector/b7a74ee98bcf02c5a507d688a1bed3aa9f7f4ed1/script/raw/protocols/mixed.txt",
     "https://github.com/abbasdvd3/abbasdvd10/73ec60de7a6c6aa6df4c14b511c1da60686891ca/ppo.txt",
-    "https://github.com/acymz/AutoVPN/refs/heads/main/data/V2.txt"
+    "https://github.com/acymz/AutoVPN/refs/heads/main/data/V2.txt",
+
+    # --- Новые источники из cook369/proxy-collect и MustafaBaqer/VestraNet-Nodes ---
+    "https://raw.githubusercontent.com/cook369/proxy-collect/main/dist/datiya/clash.yaml",
+    "https://raw.githubusercontent.com/cook369/proxy-collect/main/dist/datiya/v2ray.txt",
+    "https://raw.githubusercontent.com/cook369/proxy-collect/main/dist/jichangx/v2ray.txt",
+    "https://raw.githubusercontent.com/cook369/proxy-collect/main/dist/nodefree/v2ray.txt",
+    "https://raw.githubusercontent.com/cook369/proxy-collect/main/dist/oneclash/v2ray.txt",
+    "https://raw.githubusercontent.com/cook369/proxy-collect/main/dist/yudou/clash.yaml",
+    "https://raw.githubusercontent.com/cook369/proxy-collect/main/dist/yudou/v2ray.txt",
+    "https://raw.githubusercontent.com/cook369/proxy-collect/refs/heads/main/dist/cfmeme/v2ray.txt",
+    "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-base64.txt"
 ]
 
 CONFIG_SOURCES_FILE = os.path.join(BASE_PATH, "config_sources.json")
